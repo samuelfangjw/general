@@ -21,7 +21,7 @@
 title: Source Academy
 description: >- # this means to ignore newlines until "baseurl:"
   about
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/general" # the subpath of your site, e.g. /blog
 url: "https://samuelfangjw.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  source-academy
 github_repo_name: general
